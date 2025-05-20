@@ -1,5 +1,3 @@
-//Fixt to keep a running equation in the small screen
-
 class Calculator {
   constructor(previousOpperandTextElement, currentOperandTextElement) {
     this.previousOpperandTextElement = previousOpperandTextElement;
